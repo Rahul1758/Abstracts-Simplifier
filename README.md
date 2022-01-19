@@ -14,7 +14,7 @@
 ## Demo
 Link: [https://share.streamlit.io/rahul1758/social-media-classifier/app.py](https://share.streamlit.io/rahul1758/social-media-classifier/app.py)
 ### Unstructured Abstract
-![](https://github.com/Rahul1758/Abstracts-Simplifier/blob/master/gifs%20%26%20imgs/unstructured_abstract.jpgg)
+![](https://github.com/Rahul1758/Abstracts-Simplifier/blob/master/gifs%20%26%20imgs/unstructured_abstract.jpg)
 ### Structured Abstract
 ![](https://github.com/Rahul1758/Abstracts-Simplifier/blob/master/gifs%20%26%20imgs/structured_abstract.jpg)
 ### Working
