@@ -12,7 +12,7 @@
   * [Contact](#contact)
 
 ## Demo
-Link: [https://share.streamlit.io/rahul1758/social-media-classifier/app.py](https://share.streamlit.io/rahul1758/social-media-classifier/app.py)
+Link: [https://share.streamlit.io/rahul1758/abstracts-simplifier/app.py](https://share.streamlit.io/rahul1758/abstracts-simplifier/app.py)
 ### Unstructured Abstract
 ![](https://github.com/Rahul1758/Abstracts-Simplifier/blob/master/gifs%20%26%20imgs/unstructured_abstract.jpg)
 ### Structured Abstract
